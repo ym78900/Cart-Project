@@ -1,1 +1,2 @@
-# Cart-Project
+# Cart_project
+ADD ITEMS TO CART JAVASCRIPT PROJECT
